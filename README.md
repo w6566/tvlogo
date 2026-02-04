@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[./touxiang.png](https://www.xn--rgv465a.top/)" alt="tvlogo"  width="120" height="120"/>
+  <img src="./touxiang.png" alt="tvlogo"  width="120" height="120"/>
 </div>
 
 <p>
